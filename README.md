@@ -1,3 +1,4 @@
+![thePlan_BH](https://user-images.githubusercontent.com/72640578/110393874-5b688600-8039-11eb-9da3-6a643a7000c4.jpg)
 The original concept was very sweet: a small "Thinking of You" light for couples in long distance relationships (LDR). Intended to be small, the base would have a ribbon sensor used to slide/send your LDR partner a quick light "message" to let them them you're thinking about them. If they happened to see it when it "came in" on their end, they could then press a force-sensitive-resistor (FRS) to send some love back to let you know they got the message. Lit with a 10mm RGB led, the colors could blend from red to pink.
 
 Whether complications with technology or the technologist, that design didn't work out as planned. 
@@ -72,7 +73,7 @@ void loop() {
         }
 }
 
-
+![thePlan_BH](https://user-images.githubusercontent.com/72640578/110393923-79ce8180-8039-11eb-8e27-572024162338.jpg)
 
 ![theSetup_BH](https://user-images.githubusercontent.com/72640578/110391721-e9427200-8035-11eb-83ad-252d5937f221.jpg)
 
