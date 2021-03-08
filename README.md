@@ -1,4 +1,3 @@
-# NotSoSmart-Objects-Final
 #include <RGBLed.h>
 #include <analogWrite.h>
 #define COMMON_ANODE
