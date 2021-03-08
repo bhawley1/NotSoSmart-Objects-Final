@@ -53,3 +53,10 @@ void loop() {
         j++; //increase the value of j by 1 after each blink
         }
 }
+
+
+
+![theSetup_BH](https://user-images.githubusercontent.com/72640578/110391721-e9427200-8035-11eb-83ad-252d5937f221.jpg)
+
+https://user-images.githubusercontent.com/72640578/110390998-db402180-8034-11eb-82a5-4e8b516fcb53.mov
+
