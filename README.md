@@ -34,6 +34,7 @@ void loop() {
   if (buttonState = HIGH); {
     for (int i = 0; i<3; i++)
     {
+    
       setColor(255, 89, 0); // Miss You Orange
       delay(500);
       setColor(247, 5, 130); // Want You Pink
