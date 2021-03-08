@@ -1,4 +1,4 @@
-https://github.com/bhawley1/NotSoSmart-Objects-Final
+![thePlan_BH](https://user-images.githubusercontent.com/72640578/110393992-9ff42180-8039-11eb-9546-87a1e5c906a8.jpg)
 
 The original concept was very sweet: a small "Thinking of You" light for couples in long distance relationships (LDR). Intended to be small, the base would have a ribbon sensor used to slide/send your LDR partner a quick light "message" to let them them you're thinking about them. If they happened to see it when it "came in" on their end, they could then press a force-sensitive-resistor (FRS) to send some love back to let you know they got the message. Lit with a 10mm RGB led, the colors could blend from red to pink.
 
