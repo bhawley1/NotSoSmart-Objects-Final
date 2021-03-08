@@ -58,5 +58,7 @@ void loop() {
 
 ![theSetup_BH](https://user-images.githubusercontent.com/72640578/110391721-e9427200-8035-11eb-83ad-252d5937f221.jpg)
 
-https://user-images.githubusercontent.com/72640578/110390998-db402180-8034-11eb-82a5-4e8b516fcb53.mov
+https://youtu.be/FF4ADoFApoY // the light
+
+https://youtu.be/kHPArCHbWNE // the light in an upside down candlestick holder
 
